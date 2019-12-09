@@ -1,1 +1,1 @@
-This is chapter2.
+This is chapter2. Adding few more contents to Master branch.
